@@ -1,1 +1,2 @@
-# Drone-Detact-Model
+# Drone-Detact-Model  
+I'm sorry. It's not ready yet
